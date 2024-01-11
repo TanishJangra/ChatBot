@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500&family=Poppins:ital,wght@0,400;0,700;1,400&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+.css-m5x0z-MuiTypography-root,
+.css-1lfs2tq-MuiTypography-root {
+  font-size: 28px !important;
+  font-family: "Poppins" !important;
+}
+.top{
+  background-image: url('/src/assets/asset\ 32.png');
+  background-size: 300px;
+  background-repeat: repeat;
+  /* background-color: aqua; */
+
+}
+.nav-link button {
+  font-family: "Poppins";
+  font-size: 16px;  /* later */
+}
+
+.nav-link button:hover {
+  background-color: #3d3e3f;
+  border-radius: 10px;
+}
+
+.css-z7gwoq-MuiPaper-root-MuiAppBar-root {
+  margin: 0 !important;
+}
